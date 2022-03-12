@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Burak Selcuk
+#### Design & Development
+![Design & Development](https://media-exp1.licdn.com/dms/image/C4D16AQH5iXL5mIoWtA/profile-displaybackgroundimage-shrink_200_800/0/1634310344057?e=1652313600&v=beta&t=2m4lZ99ETVopAA4Aa_tV5TFshDe4g2k-tKpoPB_HQjo)
 
-<!--
-**burakselcuk1/burakselcuk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HI, I AM BURAK. A ANDROID MOBILE DEVELOPER. I'M WORKING ON ANDROID. FIREBASE, RETROFIT2, KOTLIN/JAVA, MVVM, NAVIGATION GRAPH, RXJAVA, DAGGER-HILT, VERSION CONTROL SYSTEM GIT, GITHUB, COROUTINES, MATERIAL DESIGN
 
-Here are some ideas to get you started:
+Skills: JAVA/KOTLIN, ANDROID, DESIGN, MVVM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
