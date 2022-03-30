@@ -7,5 +7,4 @@ HI, I AM BURAK. A ANDROID MOBILE DEVELOPER. I'M WORKING ON ANDROID. FIREBASE, RE
 Skills: JAVA/KOTLIN, ANDROID, DESIGN, MVVM
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/burakselcuk1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/burak-sel%C3%A7uk-a4740b218//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCT20COmeanGGhmQ9bEB4OyQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.burakselcukk.com)  
 
