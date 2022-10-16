@@ -1,6 +1,5 @@
 ### Hi there 👋, Burak Selcuk
 #### Design & Development
-![Design & Development]
 
 <div align="center">
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQH5iXL5mIoWtA/profile-displaybackgroundimage-shrink_350_1400/0/1634310344057?e=1671667200&v=beta&t=aSvmdG-hWNyGU5sOaXhrwGtiVL2NEDBS8To_0P3jFkY" align="center" style="width: 100%" />
