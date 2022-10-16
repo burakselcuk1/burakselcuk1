@@ -1,4 +1,4 @@
-### Hi there 👋, Burak Selcuk
+### Hi there 👋, I am Burak Selcuk
 #### Design & Development
 
 <div align="center">
