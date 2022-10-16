@@ -2,6 +2,9 @@
 #### Design & Development
 ![Design & Development]
 
+<div align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQH5iXL5mIoWtA/profile-displaybackgroundimage-shrink_350_1400/0/1634310344057?e=1671667200&v=beta&t=aSvmdG-hWNyGU5sOaXhrwGtiVL2NEDBS8To_0P3jFkY" align="center" style="width: 100%" />
+</div>  
 
 HI, I AM BURAK. A ANDROID MOBILE DEVELOPER. I'M WORKING ON ANDROID. FIREBASE, RETROFIT2, KOTLIN/JAVA, MVVM, FLOW, NAVIGATION GRAPH, RXJAVA, DAGGER-HILT, VERSION CONTROL SYSTEM GIT, BITBUCKET, GITHUB, COROUTINES, MATERIAL DESIGN, ROOM, HILT, ANDROID TESTING etc...
 
