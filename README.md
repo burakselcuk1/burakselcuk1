@@ -25,9 +25,9 @@ My specialties:
   <li>Proficient understanding of code versioning tools, such as Git, Gitlab, CI/CD pipelines
 </li>
 
-    <li>Solid understanding of the full development life cycle</li>
+<li>Solid understanding of the full development life cycle</li>
 
-      <li>Self-learner and admire to work autonomously, without supervision, and passionate about creating android applications.
+<li>Self-learner and admire to work autonomously, without supervision, and passionate about creating android applications.
 </li>
 
 
