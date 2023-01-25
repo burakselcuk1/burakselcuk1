@@ -12,6 +12,29 @@ HI, I AM BURAK. A ANDROID MOBILE DEVELOPER. I'M WORKING ON ANDROID. FIREBASE, RE
 
 Skills: JAVA/KOTLIN, ANDROID, DESIGN, MVVM
 
+My specialties:
+<ul>
+  <li>Expertise Android, Kotlin, Java in mobile platform
+</li>
+  <li>Experienced in backend and WindowsForm projects which is .Net/.NetCore (C#)
+</li>
+  <li>Familiar with MVVM, MVP, MVC Architectural design patterns
+</li>
+    <li>Reference codes published in GitHub repositories.
+</li>
+  <li>Proficient understanding of code versioning tools, such as Git, Gitlab, CI/CD pipelines
+</li>
+
+    <li>Solid understanding of the full development life cycle
+</li>
+      <li>Self-learner and admire to work autonomously, without supervision, and passionate about creating android applications.
+</li>
+
+
+</ul>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 
