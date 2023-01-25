@@ -8,7 +8,7 @@
 <br> <br> 
 
 
-HI, I AM BURAK. A ANDROID MOBILE DEVELOPER. I'M WORKING ON ANDROID. FIREBASE, RETROFIT2, KOTLIN/JAVA, MVVM, FLOW, NAVIGATION GRAPH, RXJAVA, DAGGER-HILT, VERSION CONTROL SYSTEM GIT, BITBUCKET, GITHUB, COROUTINES, MATERIAL DESIGN, ROOM, HILT, ANDROID TESTING etc...
+I’m a computer engineer with good experience in developing Android applications. If I need I can develop my own backend api as I did before. I can figure out this. Currently I’m developing Android applications and following software technologies. I always enjoyed developing new products and being in the production stage.
 
 Skills: JAVA/KOTLIN, ANDROID, DESIGN, MVVM
 
@@ -25,8 +25,8 @@ My specialties:
   <li>Proficient understanding of code versioning tools, such as Git, Gitlab, CI/CD pipelines
 </li>
 
-    <li>Solid understanding of the full development life cycle
-</li>
+    <li>Solid understanding of the full development life cycle</li>
+
       <li>Self-learner and admire to work autonomously, without supervision, and passionate about creating android applications.
 </li>
 
