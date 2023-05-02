@@ -2,7 +2,7 @@
 #### Design & Development
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4D16AQGCLZUuL4ldmg/profile-displaybackgroundimage-shrink_350_1400/0/1675450022926?e=1682553600&v=beta&t=n1MxCsOMtu9csvBo8XFlHTDO_pn8jtednAv8ZEgLeYo" align="center" style="width: 100%" />
+<img src="[https://media.licdn.com/dms/image/D4D16AQGCLZUuL4ldmg/profile-displaybackgroundimage-shrink_350_1400/0/1675450022926?e=1682553600&v=beta&t=n1MxCsOMtu9csvBo8XFlHTDO_pn8jtednAv8ZEgLeYo](https://media.licdn.com/dms/image/D4D16AQGCLZUuL4ldmg/profile-displaybackgroundimage-shrink_350_1400/0/1675450022926?e=1688601600&v=beta&t=sUScBO0EZeqVSxEWHUx_zsAXIL8AO0yl9ZT27ur0iuE)" align="center" style="width: 100%" />
 </div>  
 
 <br> <br> 
