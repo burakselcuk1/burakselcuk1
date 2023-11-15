@@ -5,10 +5,7 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQGCLZUuL4ldmg/profile-displaybackgroundimage-shrink_350_1400/0/1675450023786?e=1705536000&v=beta&t=OUwRwOkTCqr2N_9yxwLFcSsIdMl7zLptPq1UNu9TQKc" align="center" style="width: 100%" />
 </div>  
 <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=30DC72&left=true&Left=true&width=800&height=100&lines=I'm+an+Android+Developer" alt="Headline" />
-
-
-<br> <br> 
-
+<br>
 
 I’m a computer engineer with good experience in developing Android applications. If I need I can develop my own backend api as I did before. I can figure out this. Currently I’m developing Android applications and following software technologies. I always enjoyed developing new products and being in the production stage.
 
