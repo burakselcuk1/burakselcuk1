@@ -2,7 +2,7 @@
 #### Design & Development
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4D16AQGCLZUuL4ldmg/profile-displaybackgroundimage-shrink_350_1400/0/1675450022926?e=1699488000&v=beta&t=AZRU8bTvJmppvUNcixSzmDiLjg4trsiN0nhHDCGeTgs" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/D4D16AQGCLZUuL4ldmg/profile-displaybackgroundimage-shrink_350_1400/0/1675450023786?e=1705536000&v=beta&t=OUwRwOkTCqr2N_9yxwLFcSsIdMl7zLptPq1UNu9TQKc" align="center" style="width: 100%" />
 </div>  
 <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=30DC72&left=true&Left=true&width=800&height=100&lines=I'm+an+Android+Developer" alt="Headline" />
 
