@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://media.licdn.com/dms/image/D4D16AQGCLZUuL4ldmg/profile-displaybackgroundimage-shrink_350_1400/0/1675450023786?e=1705536000&v=beta&t=OUwRwOkTCqr2N_9yxwLFcSsIdMl7zLptPq1UNu9TQKc" align="center" style="width: 100%" />
 </div>  
-<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=30DC72&left=true&Left=true&width=800&height=100&lines=I'm+a+Mobile+Developer" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=30DC72&left=true&Left=true&width=800&height=100&lines=I'm+a+Senior+Mobile+Developer" alt="Headline" />
 
 I'm a computer engineer with extensive experience in developing both Android and iOS applications. If needed, I can develop my own backend API as I've done before. Currently, I'm developing mobile applications for both platforms and staying updated with the latest software technologies. I've always enjoyed developing new products and being involved in the production stage.
 
