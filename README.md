@@ -12,7 +12,6 @@ Skills: JAVA/KOTLIN, SWIFT, ANDROID, iOS, DESIGN, MVVM
 My specialties:
 <ul>
   <li>Expertise in Android (Kotlin, Java) and iOS (Swift) mobile platforms</li>
-  <li>Experienced in backend and WindowsForm projects with .Net/.NetCore (C#)</li>
   <li>Familiar with MVVM, MVP, MVC Architectural design patterns</li>
   <li>Reference codes published in GitHub repositories</li>
   <li>Proficient understanding of code versioning tools, such as Git, GitLab, CI/CD pipelines</li>
